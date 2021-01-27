@@ -1,0 +1,27 @@
+/* 
+ * D2 coding (Korean) ligature subset https://github.com/Joungkyun/font-d2coding-ligature-subset
+ */
+@font-face {
+  font-family: 'D2 coding Ligature subset';
+  font-style: normal;
+  font-weight: 400;
+  src: url('D2Coding-ligature-subset.eot');
+  src: local('※'), local('D2Coding'),
+       url('D2Coding-ligature-subset.eot?#iefix') format('embedded-opentype'),
+       url('D2Coding-ligature-subset.woff2') format('x-woff2'),
+       url('D2Coding-ligature-subset.woff') format('woff'),
+       url('D2Coding-ligature-subset.ttf') format('truetype'),
+       url('D2Coding-ligature-subset.svg') format('svg');
+}
+@font-face {
+  font-family: 'D2 coding Ligature subset';
+  font-style: normal;
+  font-weight: 700;
+  src: url('D2CodingBold-ligature-subset.eot');
+  src: local('※'), local('D2Coding Bold'),
+       url('D2CodingBold-ligature-subset.eot?#iefix') format('embedded-opentype'),
+       url('D2CodingBold-ligature-subset.woff2') format('x-woff2'),
+       url('D2CodingBold-ligature-subset.woff') format('woff'),
+       url('D2CodingBold-ligature-subset.ttf') format('truetype'),
+       url('D2CodingBold-ligature-subset.svg') format('svg');
+}
